@@ -85,5 +85,5 @@ $ ./MiddleNode
 - Bilal Afzal (Previous Team Leader)
 - Muhammad Ahsan (Team Leader)
 - Bilal Imran (Sr. Research Officer)
-- Muhammad Rehan (Research Officer)
 - Asim Tanwir (Research Officer)
+- Muhammad Rehan (Research Officer)
