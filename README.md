@@ -53,7 +53,9 @@ This can be done by commenting or uncommenting the macros defined in config.h fi
 * uncomment #define TLS for using TLS/TCP
 * uncomment #define TLS_PSK or #define TLS_CERT for using PSK or Certificates during TLS Handshake
 
-To connect with MQTT Broker change the ADDRESS macro to the URL of the MQTT Broker. 
+To connect with MQTT Broker change the 'ADDRESS' macro to the corresponding IP Address and PORT No. of the MQTT Broker. 
+
+To connect with the ACP Server set the 'pep_ipAddress' and 'pep_uniPortNo' to the corresponding IP Address and PORT no. of the ACP Server. 
  
 
 ### Instalation
